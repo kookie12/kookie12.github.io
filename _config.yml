@@ -79,7 +79,7 @@ ga_domain: huangxuan.me
 # 사이드에 있는 About me
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "안녕하세요, 새벽에 공부하는 개발자 입니다. "
-sidebar-avatar: /img/Koo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Koo.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
