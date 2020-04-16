@@ -1,9 +1,9 @@
 > 새벽에 공부하는 개발자
 
-안녕하세요, 저는 디지스트 기초학부에 재학중인 구관형 입니다.
-저는 자율주행과 로봇 소프트웨어를 공부하고 있습니다.
-자율주행에서 vision을 이용한 여러 객체인식에 관심이 있습니다. 
-로봇에선 3채널 라이다를 이용한 slam을 공부중입니다.
+안녕하세요, 저는 디지스트 기초학부에 재학중인 구관형 입니다.<br>
+저는 자율주행과 로봇 소프트웨어를 공부하고 있습니다.    
+자율주행에서 vision을 이용한 여러 객체인식에 관심이 있습니다.    
+로봇에선 3채널 라이다를 이용한 slam을 공부중입니다.    
 
 
 ##### My Programming Languages Spectrum
@@ -20,10 +20,10 @@
 |     | `html`  `Java`  `Kotlin`  |                     |                        |
 
 
-##### My Interests Spectrum
-
-저는 다음과 같은 분야에 흥미를 가지고 논문을 읽고 공부하고 있습니다.
-> __Robot Software__
-> __Computer Vision__
-> __Machine Learning__
-> __System Control__
+##### My Interests Spectrum    
+   
+저는 다음과 같은 분야에 흥미를 가지고 논문을 읽고 공부하고 있습니다.     
+> __Robot Software__    
+> __Computer Vision__   
+> __Machine Learning__    
+> __System Control__    
