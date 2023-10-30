@@ -29,13 +29,14 @@ My research interest includes:
 
 # 📝 Publications 
 
+<!-- <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023/div><img src='images/SCANet.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1"> -->
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023/div><img src='images/SCANet.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[DSCANet: Scene Complexity Aware Network for Weakly-Supervised Video
-Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
-
+[SCANet: Scene Complexity Aware Network for Weakly-Supervised Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
 Sunjae Yoon, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo
+
 
 <!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
