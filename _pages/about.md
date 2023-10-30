@@ -48,6 +48,7 @@ Sunjae Yoon, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo
 
 # 🎖 Honors and Awards
 - *2022.09* TensorFlow Developer Certificate
+- *2019.10* Bronze	Award in 2019 International	College	Student	Creative Car Contest, in Autonomous	Vehicle	Racing
 
 # 📖 Educations
 - *2023.03 - Present*, **M.S.** in Devision of Future Vehicle. (KAIST)
