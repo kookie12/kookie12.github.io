@@ -52,6 +52,7 @@ Sunjae Yoon, **Gwanhyeong Koo**, Dahyun Kim, Chang D. Yoo
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2023.11* **Best Paper Award**, Fall Conference, Korean Artificial Intelligence Association (KAIA), 2023
 - *2022.09* TensorFlow Developer Certificate
 - *2019.10* **Bronze Award** in 2019 International University Student	Creative Car Competition, in Autonomous	Driving
 
