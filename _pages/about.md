@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 😃 About me
 I'm a M.S. student at <a href="http://sanctusfactory.com/u-aim/" style="color: #7289da; text-decoration:none">**Artificial Intelligence & Machine Learning (U-AIM) Lab.**</a>  in KAIST, under the supervision of Prof. Chang D. Yoo (Expected graduation date: 2025.02).
 
 My research interest includes:
@@ -25,9 +26,21 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2024
 - *2023.10*: &nbsp;🎉🎉 One paper accepted to ICCV 2023
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/FreqOpt.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing
+
+**Gwanhyeong Koo**, Sunjae Yoon, Chang D. Yoo
+
+<span style="color:darkred">**ICASSP**</span> 2024
+
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/SCANet.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +65,7 @@ Sunjae Yoon, **Gwanhyeong Koo**, Dahyun Kim, Chang D. Yoo
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023.11* **Best Paper Award**, Fall Conference, Korean Artificial Intelligence Association (KAIA), 2023
+- *2023.11* **Best Paper Award**, Winter Conference, Korean Artificial Intelligence Association (JKAIA), 2023
 - *2022.09* TensorFlow Developer Certificate
 - *2019.10* **Bronze Award** in 2019 International University Student	Creative Car Competition, in Autonomous	Driving
 
