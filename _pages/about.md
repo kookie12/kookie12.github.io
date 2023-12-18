@@ -41,6 +41,7 @@ Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing
 <span style="color:darkred">**ICASSP**</span> 2024
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/SCANet.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
