@@ -34,7 +34,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/FreqOpt.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing
+[Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing](https://arxiv.org/pdf/2401.09794.pdf)
 
 **Gwanhyeong Koo**, Sunjae Yoon, Chang D. Yoo
 
