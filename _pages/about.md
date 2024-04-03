@@ -77,6 +77,10 @@ Sunjae Yoon, **Gwanhyeong Koo**, Dahyun Kim, Chang D. Yoo
 # 🎯 Projects
 - *2023 - 2025*, Oriented Object Detection in Optical Remote Sensing Image, **Hanwha Systems**
 
+# 🎨 Academic Services
+- Conference Reviewer: ECCV'24
+- Journal Reviewer: IEEE TPAMI
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
