@@ -26,13 +26,13 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024
+- *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024
 - *2023.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2024
 - *2023.10*: &nbsp;🎉🎉 One paper accepted to ICCV 2023
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/FRAG.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2024</div><img src='images/FRAG.jpg' alt="sym" width="80%"></div>
 <div class='paper-box-text' markdown="1">
 
 [FRAG: Frequency Adapting Group for Diffusion Video Editing](https://icml.cc/virtual/2024/poster/34145)
@@ -57,7 +57,7 @@ Sunjae Yoon, **Gwanhyeong Koo**, Geonwoo Kim, Chang D. Yoo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/SCANet.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/SCANet.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [SCANet: Scene Complexity Aware Network for Weakly-Supervised Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
