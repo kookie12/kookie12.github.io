@@ -26,10 +26,24 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
+- *2023.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024
 - *2023.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2024
 - *2023.10*: &nbsp;🎉🎉 One paper accepted to ICCV 2023
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/FRAG.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[FRAG: Frequency Adapting Group for Diffusion Video Editing](https://icml.cc/virtual/2024/poster/34145)
+
+Sunjae Yoon, **Gwanhyeong Koo**, Geonwoo Kim, Chang D. Yoo
+
+<span style="color:darkred">**ICML**</span> 2024
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/FreqOpt.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
