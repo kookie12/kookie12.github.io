@@ -32,7 +32,7 @@ My research interest includes:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2024</div><img src='images/FRAG.jpg' alt="sym" width="80%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2024</div><img src='images/FRAG.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [FRAG: Frequency Adapting Group for Diffusion Video Editing](https://icml.cc/virtual/2024/poster/34145)
