@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I'm a M.S. student at <a href="http://sanctusfactory.com/u-aim/" style="color: #7289da; text-decoration:none">**Artificial Intelligence & Machine Learning (U-AIM) Lab.**</a>  in KAIST, under the supervision of Prof. Chang D. Yoo (Expected graduation date: 2025.02).
+I'm a M.S. student at <a href="http://sanctusfactory.com/u-aim/" style="color: #7289da; text-decoration:none">**Artificial Intelligence & Machine Learning (U-AIM) Lab.**</a>  in KAIST, under the supervision of Prof. Chang D. Yoo (Expected graduation date: 2024.08).
 
 My research interest includes:
 - Computer Vision
@@ -26,11 +26,37 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Two papers accepted to ECCV 2024
 - *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024
 - *2023.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2024
 - *2023.10*: &nbsp;🎉🎉 One paper accepted to ICCV 2023
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/FlexiEdit.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing**
+
+**Gwanhyeong Koo**, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo
+
+<span style="color:darkred">**ECCV**</span> 2024
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/DNI.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Dilutional Noise Initialization for Dilution Video Editing**
+
+Sunjae Yoon, **Gwanhyeong Koo**, Ji Woo Hong, Chang D. Yoo
+
+<span style="color:darkred">**ECCV**</span> 2024
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2024</div><img src='images/FRAG.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
