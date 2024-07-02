@@ -42,8 +42,11 @@ My research interest includes:
 
 <span style="color:darkred">**ECCV**</span> 2024
 
+<a href="https://github.com/kookie12/FlexiEdit" style="color: #7289da; text-decoration: none;">[code]</a> 
+<a href="https://kookie12.github.io/FlexiEdit-Project-Page" style="color: #7289da; text-decoration: none;">[project page]</a> 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/DNI.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
