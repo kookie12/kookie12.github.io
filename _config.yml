@@ -8,11 +8,11 @@
 # Site Settings
 title                    : "Gwanhyeong Koo"
 description              : "Interested in Machine Learning and Deep Learning"
-repository               : "kookie12/_kookie12.github.io"
+repository               : "kookie12/kookie12.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "G-BM0RFTQN5M" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -163,9 +163,9 @@ compress_html:
     envs: development
 
 # Analytics
-analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-BM0RFTQN5M"
-    anonymize_ip         : # true, false (default)
+# analytics:
+#   provider               : "google-gtag" 
+#                           # false (default), "google", "google-universal", "google-gtag", "custom"
+#   google:
+#     tracking_id          : "G-BM0RFTQN5M"
+#     anonymize_ip         : # true, false (default)
