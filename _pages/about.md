@@ -38,7 +38,7 @@ My research interest includes:
 
 **FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing**
 
-**Gwanhyeong Koo**, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo
+**Gwanhyeong Koo**, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo  
 
 <span style="color:darkred">**ECCV**</span> 2024
 
