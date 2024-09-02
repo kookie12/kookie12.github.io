@@ -18,7 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I'm a M.S. student at <a href="http://sanctusfactory.com/u-aim/" style="color: #7289da; text-decoration:none">**Artificial Intelligence & Machine Learning (U-AIM) Lab.**</a>  in KAIST, under the supervision of Prof. Chang D. Yoo (Expected graduation date: 2024.08).
+I'm a Ph.D. student at <a href="http://sanctusfactory.com/u-aim/" style="color: #7289da; text-decoration:none">**Artificial Intelligence & Machine Learning (U-AIM) Lab.**</a>  in KAIST, under the supervision of Prof. Chang D. Yoo. My primary research interests focus on the application of generative models in the field of computer vision. I have conducted research in image/video editing and am particularly interested in extending this work to areas such as 3D vision and interactive applications to enhance user experience.
+<!-- and real-time processing for enhanced user experience. -->
+
+
+<!-- (Expected graduation date: 2024.08). -->
 
 My research interest includes:
 - Computer Vision
@@ -31,12 +35,12 @@ My research interest includes:
 - *2023.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2024
 - *2023.10*: &nbsp;🎉🎉 One paper accepted to ICCV 2023
 
-# 📝 Publications 
+# 📝 Conference Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/FlexiEdit.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing**
+[FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](https://arxiv.org/pdf/2407.17850)
 
 **Gwanhyeong Koo**, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo  
 
@@ -114,7 +118,8 @@ Sunjae Yoon, **Gwanhyeong Koo**, Dahyun Kim, Chang D. Yoo
 - *2019.10* **Bronze Award** in 2019 International University Student	Creative Car Competition, in Autonomous	Driving
 
 # 📖 Educations
-- *2023.03 - Present*, **M.S.** in Devision of Future Vehicle. (KAIST)
+- *2024.09 - Present*, **Ph.D.** in Electrical Engineering. (KAIST)
+- *2023.03 - 2024.08*, **M.S.** in Devision of Future Vehicle. (KAIST)
 - *2017.03 - 2023.02*, **B.S.** in Electric Engineering. (DGIST)    
 
 # 🎯 Projects
