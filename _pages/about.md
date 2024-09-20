@@ -48,6 +48,8 @@ My research interest includes:
 
 <a href="https://github.com/kookie12/FlexiEdit" style="color: #7289da; text-decoration: none;">[code]</a> 
 <a href="https://kookie12.github.io/FlexiEdit-Project-Page" style="color: #7289da; text-decoration: none;">[project page]</a> 
+<a href="https://eccv2024.ecva.net/media/PosterPDFs/ECCV%202024/666.png?t=1726421397.177207" style="color: #7289da; text-decoration: none;">[poster]</a> 
+
 </div>
 </div>
 
@@ -73,6 +75,9 @@ Sunjae Yoon, **Gwanhyeong Koo**, Ji Woo Hong, Chang D. Yoo
 Sunjae Yoon, **Gwanhyeong Koo**, Geonwoo Kim, Chang D. Yoo
 
 <span style="color:darkred">**ICML**</span> 2024
+
+<a href="https://github.com/dbstjswo505/FRAG" style="color: #7289da; text-decoration: none;">[code]</a> 
+<a href="https://dbstjswo505.github.io/FRAG-page/" style="color: #7289da; text-decoration: none;">[project page]</a> 
 
 </div>
 </div>
