@@ -30,12 +30,25 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper accepted to EMNLP 2024
 - *2024.07*: &nbsp;🎉🎉 Two papers accepted to ECCV 2024
 - *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024
 - *2023.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2024
 - *2023.10*: &nbsp;🎉🎉 One paper accepted to ICCV 2023
 
 # 📝 Conference Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM**
+
+SooHwan Eom, Jay Shim, **Gwanhyeong Koo**, Haebin Na, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
+
+<span style="color:darkred">**EMNLP**</span> 2024 (Findings)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/FlexiEdit.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
