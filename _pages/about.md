@@ -30,6 +30,7 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to EMNLP 2024
 - *2024.07*: &nbsp;🎉🎉 Two papers accepted to ECCV 2024
 - *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024
@@ -37,6 +38,18 @@ My research interest includes:
 - *2023.10*: &nbsp;🎉🎉 One paper accepted to ICCV 2023
 
 # 📝 Conference Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/TPC_NeurIPS_2024.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**
+
+Sunjae Yoon, **Gwanhyeong Koo**, Younghwan Lee, Chang D. Yoo
+
+<span style="color:darkred">**NeurIPS**</span> 2024
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
