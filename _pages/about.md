@@ -33,16 +33,13 @@ My research interest includes:
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to EMNLP 2024
 - *2024.07*: &nbsp;🎉🎉 Two papers accepted to ECCV 2024
-- *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024
-- *2023.12*: &nbsp;🎉🎉 One paper accepted to ICASSP 2024
-- *2023.10*: &nbsp;🎉🎉 One paper accepted to ICCV 2023
 
 # 📝 Conference Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/TPC_NeurIPS_2024.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**
+[TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation](https://arxiv.org/abs/2410.24037)
 
 Sunjae Yoon, **Gwanhyeong Koo**, Younghwan Lee, Chang D. Yoo
 
@@ -54,7 +51,7 @@ Sunjae Yoon, **Gwanhyeong Koo**, Younghwan Lee, Chang D. Yoo
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM**
+[Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM](https://aclanthology.org/2024.findings-emnlp.827/)
 
 SooHwan Eom, Jay Shim, **Gwanhyeong Koo**, Haebin Na, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
 
@@ -66,7 +63,7 @@ SooHwan Eom, Jay Shim, **Gwanhyeong Koo**, Haebin Na, Mark A. Hasegawa-Johnson, 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/FlexiEdit.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](https://arxiv.org/pdf/2407.17850)
+[FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](https://arxiv.org/abs/2407.17850)
 
 **Gwanhyeong Koo**, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo  
 
@@ -83,7 +80,7 @@ SooHwan Eom, Jay Shim, **Gwanhyeong Koo**, Haebin Na, Mark A. Hasegawa-Johnson, 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/DNI.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Dilutional Noise Initialization for Dilution Video Editing**
+[Dilutional Noise Initialization for Dilution Video Editing](https://arxiv.org/abs/2409.13037v1)
 
 Sunjae Yoon, **Gwanhyeong Koo**, Ji Woo Hong, Chang D. Yoo
 
@@ -112,7 +109,7 @@ Sunjae Yoon, **Gwanhyeong Koo**, Geonwoo Kim, Chang D. Yoo
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/FreqOpt.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing](https://arxiv.org/pdf/2401.09794.pdf)
+[Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing](https://arxiv.org/abs/2401.09794)
 
 **Gwanhyeong Koo**, Sunjae Yoon, Chang D. Yoo
 
@@ -144,21 +141,26 @@ Sunjae Yoon, **Gwanhyeong Koo**, Dahyun Kim, Chang D. Yoo
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.10* **1st Prize** 2nd Seoul National University Bundang Hospital (SNUBH) Datathon Award
 - *2023.11* **Best Paper Award**, Winter Conference, Korean Artificial Intelligence Association (JKAIA), 2023
 - *2022.09* TensorFlow Developer Certificate
 - *2019.10* **Bronze Award** in 2019 International University Student	Creative Car Competition, in Autonomous	Driving
 
 # 📖 Educations
 - *2024.09 - Present*, **Ph.D.** in Electrical Engineering. (KAIST)
-- *2023.03 - 2024.08*, **M.S.** in Devision of Future Vehicle. (KAIST)
+- *2023.03 - 2024.08*, **M.S.** in Electrical Engineering (Devision of Future Vehicle). (KAIST)
 - *2017.03 - 2023.02*, **B.S.** in Electric Engineering. (DGIST)    
 
 # 🎯 Projects
 - *2023 - 2025*, Oriented Object Detection in Optical Remote Sensing Image, **Hanwha Systems**
 
 # 🎨 Academic Services
-- Conference Reviewer: ECCV'24
+- Conference Reviewer: ECCV'24, ICASSP'25, CVPR'25, ICML'25, SIGGRAPH'25
 - Journal Reviewer: IEEE TPAMI
+
+# Teaching Assistant
+- [EE531] Statistical Learning Theory: 2025 Spring
+- [EE331] Introduction to Machine Learning: 2024 Fall
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
