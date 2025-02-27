@@ -37,7 +37,7 @@ My research interest includes:
 
 # 📝 Conference Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2025</div><img src='images/TPC_NeurIPS_2024.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2025</div><img src='images/ITA-MDT_2025.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
  ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On
