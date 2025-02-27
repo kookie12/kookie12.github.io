@@ -30,11 +30,24 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2025
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to EMNLP 2024
 - *2024.07*: &nbsp;🎉🎉 Two papers accepted to ECCV 2024
 
 # 📝 Conference Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2025</div><img src='images/TPC_NeurIPS_2024.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+ ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On
+
+Ji Woo Hong, Tri Ton, Trung X. Pham, **Gwanhyeong Koo**, Sunjae Yoon, Chang D. Yoo
+
+<span style="color:darkred">**CVPR**</span> 2025
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/TPC_NeurIPS_2024.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -158,7 +171,7 @@ Sunjae Yoon, **Gwanhyeong Koo**, Dahyun Kim, Chang D. Yoo
 - Conference Reviewer: ECCV'24, ICASSP'25, CVPR'25, ICML'25, SIGGRAPH'25
 - Journal Reviewer: IEEE TPAMI
 
-# Teaching Assistant
+# ✏️ Teaching Assistant
 - [EE531] Statistical Learning Theory: 2025 Spring
 - [EE331] Introduction to Machine Learning: 2024 Fall
 
