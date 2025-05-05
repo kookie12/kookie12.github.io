@@ -30,24 +30,42 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper accepted to ICML 2025 (Spotlight, top 2.6%)
 - *2025.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2025
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to EMNLP 2024
 - *2024.07*: &nbsp;🎉🎉 Two papers accepted to ECCV 2024
 
 # 📝 Conference Publications 
+## 2025 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/FlowDrag_2025.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields
+
+<span style="color: #7289da; text-decoration: none;"> Gwanhyeong Koo </span>, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo
+
+<span style="color:darkred">**ICML**</span> 2025 <span style="color:darkred">(Spotlight, top 2.6%)</span>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2025</div><img src='images/ITA-MDT_2025.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
- ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On
+[ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](https://arxiv.org/abs/2503.20418)
 
 Ji Woo Hong, Tri Ton, Trung X. Pham, **Gwanhyeong Koo**, Sunjae Yoon, Chang D. Yoo
 
 <span style="color:darkred">**CVPR**</span> 2025
 
+<a href="https://github.com/jiwoohong93/ita-mdt_code" style="color: #7289da; text-decoration: none;">[code]</a> 
+<a href="https://jiwoohong93.github.io/ita-mdt/" style="color: #7289da; text-decoration: none;">[project page]</a> 
+
 </div>
 </div>
+
+## 2024
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/TPC_NeurIPS_2024.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -57,6 +75,8 @@ Ji Woo Hong, Tri Ton, Trung X. Pham, **Gwanhyeong Koo**, Sunjae Yoon, Chang D. Y
 Sunjae Yoon, **Gwanhyeong Koo**, Younghwan Lee, Chang D. Yoo
 
 <span style="color:darkred">**NeurIPS**</span> 2024
+
+<a href="https://github.com/dbstjswo505/TPC" style="color: #7289da; text-decoration: none;">[code]</a> 
 
 </div>
 </div>
@@ -134,6 +154,8 @@ Sunjae Yoon, **Gwanhyeong Koo**, Geonwoo Kim, Chang D. Yoo
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/SCANet.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
+## 2023 
+
 [SCANet: Scene Complexity Aware Network for Weakly-Supervised Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
 
 Sunjae Yoon, **Gwanhyeong Koo**, Dahyun Kim, Chang D. Yoo
@@ -168,7 +190,7 @@ Sunjae Yoon, **Gwanhyeong Koo**, Dahyun Kim, Chang D. Yoo
 - *2023 - 2025*, Oriented Object Detection in Optical Remote Sensing Image, **Hanwha Systems**
 
 # 🎨 Academic Services
-- Conference Reviewer: ECCV'24, ICASSP'25, CVPR'25, ICML'25, SIGGRAPH'25
+- Conference Reviewer: ECCV'24, ICASSP'25, CVPR'25, ICML'25, SIGGRAPH'25, ACM MM'25, NeurIPS'25
 - Journal Reviewer: IEEE TPAMI
 
 # ✏️ Teaching Assistant
