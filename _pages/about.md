@@ -41,7 +41,7 @@ My research interest includes:
 
 FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields
 
-<span style="color: #7289da; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo
+<span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo
 
 <span style="color:darkred">**ICML**</span> 2025 <span style="color:darkred">**(Spotlight, top 2.6%)**</span>
 
@@ -53,7 +53,7 @@ FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector 
 
 [ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](https://arxiv.org/abs/2503.20418)
 
-Ji Woo Hong, Tri Ton, Trung X. Pham, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Chang D. Yoo
+Ji Woo Hong, Tri Ton, Trung X. Pham, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Chang D. Yoo
 
 <span style="color:darkred">**CVPR**</span> 2025
 
@@ -70,7 +70,7 @@ Ji Woo Hong, Tri Ton, Trung X. Pham, <span style="color: #7289da; text-decoratio
 
 [TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation](https://arxiv.org/abs/2410.24037)
 
-Sunjae Yoon, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong Koo**</span>, Younghwan Lee, Chang D. Yoo
+Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Younghwan Lee, Chang D. Yoo
 
 <span style="color:darkred">**NeurIPS**</span> 2024
 
@@ -84,7 +84,7 @@ Sunjae Yoon, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong K
 
 [Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM](https://aclanthology.org/2024.findings-emnlp.827/)
 
-SooHwan Eom, Jay Shim, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong Koo**</span>, Haebin Na, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
+SooHwan Eom, Jay Shim, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Haebin Na, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
 
 <span style="color:darkred">**EMNLP**</span> 2024 (Findings)
 
@@ -96,7 +96,7 @@ SooHwan Eom, Jay Shim, <span style="color: #7289da; text-decoration: none;">**Gw
 
 [FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](https://arxiv.org/abs/2407.17850)
 
-<span style="color: #7289da; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo  
+<span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo  
 
 <span style="color:darkred">**ECCV**</span> 2024
 
@@ -113,7 +113,7 @@ SooHwan Eom, Jay Shim, <span style="color: #7289da; text-decoration: none;">**Gw
 
 [Dilutional Noise Initialization for Dilution Video Editing](https://arxiv.org/abs/2409.13037v1)
 
-Sunjae Yoon, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong Koo**</span>, Ji Woo Hong, Chang D. Yoo
+Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Ji Woo Hong, Chang D. Yoo
 
 <span style="color:darkred">**ECCV**</span> 2024
 
@@ -126,7 +126,7 @@ Sunjae Yoon, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong K
 
 [FRAG: Frequency Adapting Group for Diffusion Video Editing](https://icml.cc/virtual/2024/poster/34145)
 
-Sunjae Yoon, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong Koo**</span>, Geonwoo Kim, Chang D. Yoo
+Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Geonwoo Kim, Chang D. Yoo
 
 <span style="color:darkred">**ICML**</span> 2024
 
@@ -142,7 +142,7 @@ Sunjae Yoon, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong K
 
 [Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing](https://arxiv.org/abs/2401.09794)
 
-<span style="color: #7289da; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Chang D. Yoo
+<span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Chang D. Yoo
 
 <span style="color:darkred">**ICASSP**</span> 2024
 
@@ -157,7 +157,7 @@ Sunjae Yoon, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong K
 
 [SCANet: Scene Complexity Aware Network for Weakly-Supervised Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
 
-Sunjae Yoon, <span style="color: #7289da; text-decoration: none;">**Gwanhyeong Koo**</span>, Dahyun Kim, Chang D. Yoo
+Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Dahyun Kim, Chang D. Yoo
 
 <span style="color:darkred">**ICCV**</span> 2023
 
