@@ -43,7 +43,7 @@ FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector 
 
 <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo
 
-<span style="color:darkred">**ICML**</span> 2025 <span style="color:darkred">**(Spotlight, top 2.6%)**</span>
+<span style="color:darkred">**ICML**</span> 2025, <span style="color:darkred">**Spotlight (313/12107=2.6%)**</span>
 
 </div>
 </div>
