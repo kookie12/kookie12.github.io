@@ -30,16 +30,17 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper accepted to ICML 2025 <span style="color:darkred">**(Spotlight, top 2.6%)**</span>
-- *2025.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2025
-- *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024
+- *2025.06*: &nbsp;🎉 I am recognized as an <span style="color:darkred">**outstanding reviewer (top 5.64%)**</span>  for CVPR 2025
+- *2025.05*: &nbsp;🎉 One paper accepted to ICML 2025 <span style="color:darkred">**(Spotlight, top 2.6%)**</span>
+- *2025.02*: &nbsp;🎉 One paper accepted to CVPR 2025
+- *2024.09*: &nbsp;🎉 One paper accepted to NeurIPS 2024
 
 # 📝 Conference Publications 
 ## 2025 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/FlowDrag_2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields
+[C9] FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields
 
 <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo
 
@@ -51,7 +52,7 @@ FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2025</div><img src='images/ITA-MDT_2025.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](https://arxiv.org/abs/2503.20418)
+[[C8] ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](https://arxiv.org/abs/2503.20418)
 
 Ji Woo Hong, Tri Ton, Trung X. Pham, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Chang D. Yoo
 
@@ -68,7 +69,7 @@ Ji Woo Hong, Tri Ton, Trung X. Pham, <span style="color: #00369F; text-decoratio
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/TPC_NeurIPS_2024.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation](https://arxiv.org/abs/2410.24037)
+[[C7] TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation](https://arxiv.org/abs/2410.24037)
 
 Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Younghwan Lee, Chang D. Yoo
 
@@ -82,7 +83,7 @@ Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong K
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM](https://aclanthology.org/2024.findings-emnlp.827/)
+[[C6] Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM](https://aclanthology.org/2024.findings-emnlp.827/)
 
 SooHwan Eom, Jay Shim, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Haebin Na, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
 
@@ -94,7 +95,7 @@ SooHwan Eom, Jay Shim, <span style="color: #00369F; text-decoration: none;">**Gw
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/FlexiEdit.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](https://arxiv.org/abs/2407.17850)
+[[C5] FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](https://arxiv.org/abs/2407.17850)
 
 <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo  
 
@@ -111,7 +112,7 @@ SooHwan Eom, Jay Shim, <span style="color: #00369F; text-decoration: none;">**Gw
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/DNI.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Dilutional Noise Initialization for Dilution Video Editing](https://arxiv.org/abs/2409.13037v1)
+[[C4] Dilutional Noise Initialization for Dilution Video Editing](https://arxiv.org/abs/2409.13037v1)
 
 Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Ji Woo Hong, Chang D. Yoo
 
@@ -124,7 +125,7 @@ Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong K
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2024</div><img src='images/FRAG.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[FRAG: Frequency Adapting Group for Diffusion Video Editing](https://icml.cc/virtual/2024/poster/34145)
+[[C3] FRAG: Frequency Adapting Group for Diffusion Video Editing](https://icml.cc/virtual/2024/poster/34145)
 
 Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Geonwoo Kim, Chang D. Yoo
 
@@ -140,7 +141,7 @@ Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong K
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/FreqOpt.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing](https://arxiv.org/abs/2401.09794)
+[[C2] Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing](https://arxiv.org/abs/2401.09794)
 
 <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Chang D. Yoo
 
@@ -155,7 +156,7 @@ Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong K
 <div class='paper-box-text' markdown="1">
 
 
-[SCANet: Scene Complexity Aware Network for Weakly-Supervised Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
+[[C1] SCANet: Scene Complexity Aware Network for Weakly-Supervised Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
 
 Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Dahyun Kim, Chang D. Yoo
 
@@ -175,6 +176,7 @@ Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong K
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.06* **CVPR Outstanding Reviewer (2025)**, Recognized as one of the top 5.64% among 12,582 reviewers at CVPR 2025
 - *2024.10* **1st Prize** 2nd Seoul National University Bundang Hospital (SNUBH) Datathon Award
 - *2023.11* **Best Paper Award**, Winter Conference, Korean Artificial Intelligence Association (JKAIA), 2023
 - *2022.09* TensorFlow Developer Certificate
