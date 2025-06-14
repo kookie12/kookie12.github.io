@@ -176,7 +176,7 @@ Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong K
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2025.06* **CVPR Outstanding Reviewer (2025)**, Recognized as one of the top 5.64% among 12,582 reviewers at CVPR 2025
+- *2025.06* **CVPR Outstanding Reviewer (2025)**, Recognized as one of the top 5.64% among 12,582 reviewers for CVPR 2025
 - *2024.10* **1st Prize** 2nd Seoul National University Bundang Hospital (SNUBH) Datathon Award
 - *2023.11* **Best Paper Award**, Winter Conference, Korean Artificial Intelligence Association (JKAIA), 2023
 - *2022.09* TensorFlow Developer Certificate
