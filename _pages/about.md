@@ -30,6 +30,7 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉 One paper accepted to ICCV 2025
 - *2025.06*: &nbsp;🎉 I am recognized as an <span style="color:darkred">**outstanding reviewer (top 5.64%)**</span>  for CVPR 2025
 - *2025.05*: &nbsp;🎉 One paper accepted to ICML 2025 <span style="color:darkred">**(Spotlight, top 2.6%)**</span>
 - *2025.02*: &nbsp;🎉 One paper accepted to CVPR 2025
@@ -37,6 +38,18 @@ My research interest includes:
 
 # 📝 Conference Publications 
 ## 2025 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/iccv2025_osd.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[C10] Occlusion-robust Stylization for Drawing-based 3D Animation
+
+Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Younghwan Lee, Ji Woo Hong, Chang D. Yoo
+
+<span style="color:darkred">**ICCV**</span> 2025, <span style="color:darkred">**Review Score: 6,6,5 (avg. 5.67/6)**</span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/FlowDrag_2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
