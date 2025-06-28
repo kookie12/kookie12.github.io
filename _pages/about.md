@@ -38,7 +38,7 @@ My research interest includes:
 
 # 📝 Conference Publications 
 ## 2025 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/iccv2025_osd.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2025</div><img src='images/iccv2025_osd.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [C10] Occlusion-robust Stylization for Drawing-based 3D Animation
