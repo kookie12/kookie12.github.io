@@ -53,11 +53,15 @@ Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong K
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/FlowDrag_2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[C9] FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields
+[[C9] FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields](https://arxiv.org/abs/2507.08285)
 
 <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo
 
 <span style="color:darkred">**ICML**</span> 2025, <span style="color:darkred">**Spotlight (313/12107=2.6%)**</span>
+
+<a href="https://github.com/kookie12/FlowDrag" style="color: #7289da; text-decoration: none;">[code]</a> 
+<a href="https://kookie12.github.io/FlowDrag-Projecct-Page/" style="color: #7289da; text-decoration: none;">[project page]</a> 
+<a href="https://icml.cc/media/PosterPDFs/ICML%202025/43848.png?t=1752477709.4670188" style="color: #7289da; text-decoration: none;">[poster]</a> 
 
 </div>
 </div>
