@@ -213,8 +213,11 @@ Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong K
 - *2023 - 2025*, Oriented Object Detection in Optical Remote Sensing Image, **Hanwha Systems**
 
 # 🎨 Academic Services
-- Conference Reviewer: ECCV'24, ICASSP'25, CVPR'25, ICML'25, SIGGRAPH'25, ACM MM'25, NeurIPS'25
-- Journal Reviewer: IEEE TPAMI
+- Conference Reviewer: ECCV'24, ICASSP'25, CVPR'25, ICML'25, SIGGRAPH'25, ACM MM'25, NeurIPS'25, WACV'26, AAAI'26, ICLR'26, ICASSP'26, CVPR'26
+- Journal Reviewer: 
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  - Transactions on Machine Learning Research (TMLR)
+  - Expert Systems With Applications
 
 # ✏️ Teaching Assistant
 - [EE531] Statistical Learning Theory: 2025 Spring
