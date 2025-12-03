@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I'm a Ph.D. student at <a href="http://sanctusfactory.com/u-aim/" style="color: #7289da; text-decoration:none">**Artificial Intelligence & Machine Learning (U-AIM) Lab.**</a>  in KAIST, under the supervision of Prof. Chang D. Yoo. My primary research interests focus on the application of generative models in the field of computer vision. I have conducted research in image/video editing and am particularly interested in extending this work to areas such as 3D vision and interactive applications to enhance user experience.
+I'm a Ph.D. student at <a href="http://sanctusfactory.com/u-aim/" style="color: #7289da; text-decoration:none">**Artificial Intelligence & Machine Learning (U-AIM) Lab.**</a>  in KAIST, under the supervision of Prof. Chang D. Yoo. Currently, I am a research intern at <a href="https://www.naverlabs.com/" style="color:rgb(0, 0, 0); text-decoration:none">**NAVER LABS**</a> on the Spatial AI team. My primary research interests focus on the application of generative models in the field of computer vision. I have conducted research in image/video editing and am particularly interested in extending this work to areas such as 3D vision and interactive applications to enhance user experience. 
 <!-- and real-time processing for enhanced user experience. -->
 
 
@@ -30,22 +30,25 @@ My research interest includes:
 - Large Language Models (LLMs)
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 I started a research internship at <a href="https://www.naverlabs.com/" style="color:rgb(0, 0, 0); text-decoration:none">**NAVER LABS**</a> (Spatial AI team)
 - *2025.06*: &nbsp;🎉 One paper accepted to ICCV 2025
 - *2025.06*: &nbsp;🎉 I am recognized as an <span style="color:darkred">**outstanding reviewer (top 5.64%)**</span>  for CVPR 2025
 - *2025.05*: &nbsp;🎉 One paper accepted to ICML 2025 <span style="color:darkred">**(Spotlight, top 2.6%)**</span>
-- *2025.02*: &nbsp;🎉 One paper accepted to CVPR 2025
-- *2024.09*: &nbsp;🎉 One paper accepted to NeurIPS 2024
 
 # 📝 Conference Publications 
 ## 2025 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2025</div><img src='images/iccv2025_osd.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[C10] Occlusion-robust Stylization for Drawing-based 3D Animation
+[[C10] Occlusion-robust Stylization for Drawing-based 3D Animation](https://arxiv.org/abs/2508.00398)
 
 Sunjae Yoon, <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, Younghwan Lee, Ji Woo Hong, Chang D. Yoo
 
 <span style="color:darkred">**ICCV**</span> 2025, <span style="color:darkred">**Review Score: 6,6,5 (avg. 5.67/6)**</span>
+
+<a href="https://github.com/dbstjswo505/OSF" style="color: #7289da; text-decoration: none;">[code]</a> 
+<a href="https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/" style="color: #7289da; text-decoration: none;">[project page]</a> 
+
 
 </div>
 </div>
