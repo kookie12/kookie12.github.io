@@ -91,6 +91,7 @@ My research interest includes:
 <span style="color:darkred">**ICML**</span> 2026
 
 <a href="https://arxiv.org/abs/2607.00595" class="paper-btn">Paper</a> 
+<a href="https://siw00-lim.github.io/GADA-Project-Page/" class="paper-btn">Project Page</a> 
 
 </div>
 </div>
