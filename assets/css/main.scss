@@ -46,9 +46,13 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    border-bottom: 1px #eee solid;
+    padding: 1.6em 0;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+        background-color: #fafbff;
+    }
 
     .paper-box-image{
         justify-content: center;
@@ -56,35 +60,63 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            width: 364px;
+            height: 160px;
+            max-width: 100%;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+            object-fit: contain;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
         }
     }
-    
+
+    &:hover .paper-box-image img {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 16px rgba(0, 0, 0, 0.22);
+    }
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            flex: 0 0 auto;
+            width: auto;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            flex: 1;
+            padding-left: 1.6em;
             order: 2;
         }
 
     }
 
 
+}
+
+.paper-btn {
+    display: inline-block;
+    padding: 3px 12px;
+    margin: 6px 5px 0 0;
+    border: 1px solid #7289da;
+    border-radius: 6px;
+    color: #7289da;
+    font-size: 0.78em;
+    line-height: 1.4;
+    text-decoration: none;
+    transition: background-color 0.2s ease, color 0.2s ease;
+
+    &:hover {
+        background-color: #7289da;
+        color: #fff;
+        text-decoration: none;
+    }
 }
 
 $scroll_offset : 2em;
@@ -98,12 +130,16 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 3px 12px;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    margin-top: .6em;
+    margin-left: -.4em;
     color: white;
     background-color: #00369f;
-    font-size: .8em;
+    font-size: .72em;
+    font-weight: 600;
+    letter-spacing: .3px;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+    z-index: 2;
 }
