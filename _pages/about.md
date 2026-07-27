@@ -60,6 +60,7 @@ My research interest includes:
 
 <span style="color:darkred">**ECCV**</span> 2026, <span style="color:darkred">**Oral Presentation**</span>
 
+<a href="https://arxiv.org/abs/2607.03990" class="paper-btn">Paper</a> 
 <a href="https://kookie12.github.io/InSpace-Project-Page" class="paper-btn">Project Page</a> 
 
 <span style="font-size: 0.85em; color: gray;">*Work done during the internship at NAVER LABS</span>
@@ -76,6 +77,7 @@ My research interest includes:
 
 <span style="color:darkred">**ECCV**</span> 2026
 
+<a href="https://arxiv.org/abs/2607.14927" class="paper-btn">Paper</a> 
 <a href="https://siw00-lim.github.io/TanGO-Project-Page/" class="paper-btn">Project Page</a> 
 
 </div>
