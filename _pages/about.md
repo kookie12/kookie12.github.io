@@ -31,7 +31,7 @@ My research interest includes:
 # 🔥 News
 
 <ul>
-<li><em>2026.06</em>: &nbsp;🎉 Two papers accepted to ECCV 2026</li>
+<li><em>2026.06</em>: &nbsp;🎉 Two papers accepted to ECCV 2026 <span style="color:darkred"><strong>(one Oral Presentation)</strong></span></li>
 <li><em>2026.05</em>: &nbsp;🎉 One paper accepted to ICML 2026</li>
 <li><em>2026.03</em>: &nbsp;🏆 Received the Outstanding Research Achievement Award from KAIST Electrical Engineering.</li>
 </ul>
@@ -58,7 +58,7 @@ My research interest includes:
 
 <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, <a href="https://blandocs.github.io/" style="color: #7289da; text-decoration: none;">Hyunsu Kim</a>, Youngji Kim, Taejae Lee, <a href="https://siw00-lim.github.io/" style="color: #7289da; text-decoration: none;">Siwoo Lim</a>, <a href="https://dbstjswo505.github.io/" style="color: #7289da; text-decoration: none;">Sunjae Yoon</a>, Suyong Yeon<sup>†</sup>, <a href="https://sanctusfactory.com/family.php" style="color: #7289da; text-decoration: none;">Chang D. Yoo</a><sup>†</sup>
 
-<span style="color:darkred">**ECCV**</span> 2026
+<span style="color:darkred">**ECCV**</span> 2026, <span style="color:darkred">**Oral Presentation**</span>
 
 <a href="https://kookie12.github.io/InSpace-Project-Page" class="paper-btn">Project Page</a> 
 
@@ -322,10 +322,11 @@ Mentor: Suyong Yeon
 - *2023 - 2025*, Oriented Object Detection in Optical Remote Sensing Image, **Hanwha Systems**
 
 # 🎨 Academic Services
-- Conference Reviewer: ECCV'24, ICASSP'25, CVPR'25, ICML'25, SIGGRAPH'25, ACM MM'25, NeurIPS'25, WACV'26, AAAI'26, ICLR'26, ICASSP'26, CVPR'26, ECCV'26, SIGGRAPH Asia'26, NeurIPS'26
+- Conference Reviewer: ECCV'24, ICASSP'25, CVPR'25, ICML'25, SIGGRAPH'25, ACM MM'25, NeurIPS'25, WACV'26, AAAI'26, ICLR'26, ICASSP'26, CVPR'26, ECCV'26, SIGGRAPH Asia'26, NeurIPS'26, AAAI'27
 - Journal Reviewer: 
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - Pattern Recognition
+  - Neurocomputing
   - Transactions on Machine Learning Research (TMLR)
   - Expert Systems With Applications
 
