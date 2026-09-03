@@ -31,7 +31,7 @@ My research interest includes:
 # 🔥 News
 
 <ul>
-<li><em>2026.06</em>: &nbsp;🎉 Two papers accepted to ECCV 2026 <span style="color:darkred"><strong>(one Oral Presentation)</strong></span></li>
+<li><em>2026.06</em>: &nbsp;🎉 Two papers accepted to ECCV 2026 <span style="color:darkred"><strong>(one Spotlight, top 1.57%)</strong></span></li>
 <li><em>2026.05</em>: &nbsp;🎉 One paper accepted to ICML 2026</li>
 <li><em>2026.03</em>: &nbsp;🏆 Received the Outstanding Research Achievement Award from KAIST Electrical Engineering.</li>
 </ul>
@@ -58,10 +58,14 @@ My research interest includes:
 
 <span style="color: #00369F; text-decoration: none;">**Gwanhyeong Koo**</span>, <a href="https://blandocs.github.io/" style="color: #7289da; text-decoration: none;">Hyunsu Kim</a>, Youngji Kim, Taejae Lee, <a href="https://siw00-lim.github.io/" style="color: #7289da; text-decoration: none;">Siwoo Lim</a>, <a href="https://dbstjswo505.github.io/" style="color: #7289da; text-decoration: none;">Sunjae Yoon</a>, Suyong Yeon<sup>†</sup>, <a href="https://sanctusfactory.com/family.php" style="color: #7289da; text-decoration: none;">Chang D. Yoo</a><sup>†</sup>
 
-<span style="color:darkred">**ECCV**</span> 2026, <span style="color:darkred">**Oral Presentation**</span>
+<span style="color:darkred">**ECCV**</span> 2026, <span style="color:darkred">**Spotlight(Oral) (164/10473=1.57%)**</span>
 
 <a href="https://arxiv.org/abs/2607.03990" class="paper-btn">Paper</a> 
 <a href="https://kookie12.github.io/InSpace-Project-Page" class="paper-btn">Project Page</a> 
+<a href="https://github.com/naver/inspace" class="paper-btn">Code</a> 
+<a href="https://huggingface.co/GwanHyeong/InSpace" class="paper-btn">Model</a> 
+<a href="https://huggingface.co/datasets/GwanHyeong/ERP-FRONT-30K" class="paper-btn">Dataset</a> 
+<a href="https://eccv.ecva.net/media/PosterPDFs/ECCV%202026/4474.png?t=1788204622.93944" class="paper-btn">Poster</a> 
 
 <span style="font-size: 0.85em; color: gray;">*Work done during the internship at NAVER LABS</span>
 
@@ -79,6 +83,8 @@ My research interest includes:
 
 <a href="https://arxiv.org/abs/2607.14927" class="paper-btn">Paper</a> 
 <a href="https://siw00-lim.github.io/TanGO-Project-Page/" class="paper-btn">Project Page</a> 
+<a href="https://github.com/siw00-lim/TanGO" class="paper-btn">Code</a> 
+<a href="https://eccv.ecva.net/media/PosterPDFs/ECCV%202026/5791.png?t=1788248513.4109013" class="paper-btn">Poster</a> 
 
 </div>
 </div>
